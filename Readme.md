@@ -2,6 +2,9 @@
 
 An online fish market application.
 
+## Deployed App
+* [Deployed on Next](https://cotd.ragsab28.now.sh/)
+
 ## Built With
 
 * [React](https://reactjs.org/) - The JavaScript framework used
