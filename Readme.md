@@ -3,7 +3,7 @@
 An online fish market application.
 
 ## Deployed App
-* [Deployed on Next](https://cotd.ragsab28.now.sh/)
+* [Deployed on Now](https://cotd.ragsab28.now.sh/)
 
 ## Built With
 
