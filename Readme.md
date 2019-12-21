@@ -3,7 +3,7 @@
 An online fish market application.
 
 ## Deployed App
-* [Deployed on Now](https://cotd.ragsab28.now.sh
+* [Deployed on Now](https://cotd.ragsab28.now.sh)
 * [Deployed on Netlify](https://catch-day-ragith.netlify.com/)
 
 ## Built With
